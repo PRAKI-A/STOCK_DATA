@@ -8,7 +8,7 @@
 
 This project focuses on building a **Stock Performance Dashboard** that analyzes the **Nifty 50** stocks over the past year. It processes daily data such as open, close, high, low, and volume to generate actionable insights. By leveraging data science tools and interactive dashboards, this solution aims to simplify decision-making for investors, analysts, and market watchers.
 
----
+----
 
 ## 💼 Real-World Applications
 
